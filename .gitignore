@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# .csv generated from .mat
+X.csv
+y.csv
