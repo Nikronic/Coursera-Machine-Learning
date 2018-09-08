@@ -6,12 +6,12 @@ In this repository I implemented all assignments in python. (No octave to python
 2. All computations done in vectorized form
 
 # Schedule
-<strong>Finished:</strong>
-1.<span style="color:green;"> Week 2 - Linear Regression</span>
-2.<span style="color:green;"> Week 3 - Logistic Regression</span>
-3.<span style="color:green;"> Week 4 - Multi-Class Classification and Neural Networks</span>
+<strong>Finished:</strong><br>
+1.<span style="color:green;"> Week 2 - Linear Regression</span><br>
+2.<span style="color:green;"> Week 3 - Logistic Regression</span><br>
+3.<span style="color:green;"> Week 4 - Multi-Class Classification and Neural Networks</span><br>
 <br><br>
-<strong> Working:</strong>
+<strong> Working:</strong><br>
 4.<span style="color:blue;"> Week 5 - Neural Networks Learning</span>
 
 # Reference
