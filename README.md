@@ -12,4 +12,4 @@ In this repository I implemented all assignments in python. (No octave to python
 - [x] Week 5 - Neural Networks Learning
 
 # Reference
-Coursera Machine Learning course by Andrew Ng (<a href='https://www.coursera.org/learn/machine-learning'>click</a>)
+<a href='https://www.coursera.org/learn/machine-learning'>Coursera Machine Learning</a> course by Andrew Ng.
