@@ -10,6 +10,7 @@ In this repository I implemented all assignments in python. (No octave to python
 - [x] Week 3 - Logistic Regression<br>
 - [x] Week 4 - Multi-Class Classification and Neural Networks<br>
 - [x] Week 5 - Neural Networks Learning
+- [] Week 6 - Regularized Linear Regression and Bias v.s. Variance
 
 # Reference
 <a href='https://www.coursera.org/learn/machine-learning'>Coursera Machine Learning</a> course by Andrew Ng.
