@@ -18,7 +18,7 @@ In this repository I implemented all assignments in python. (No octave to python
   - [x] Trying Different Parameters
 - [x] Week 5 - Neural Networks Learning
   - [x] Neural Networks
-  - [x] Backpropagation
+  - [x] Backpropagation [#3](https://github.com/Nikronic/Coursera-Machine-Learning/issues/3)
   - [x] Trying Different Parameters
 - [ ] Week 6 - Regularized Linear Regression and Bias v.s. Variance
   - [x] Regularized Linear Regression
