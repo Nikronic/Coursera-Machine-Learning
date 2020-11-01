@@ -1,5 +1,9 @@
-# [WIP] Coursera Machine Learning by Andrew Ng
-In this repository I implemented all assignments in python. (No octave to python library)
+# [NO LONGER DEVELOPED] Coursera Machine Learning by Andrew Ng
+In this repository I implemented few assignments in python. (No octave to python library)
+
+# Acknowledgement
+I started learning python by learning machine learning at the same time and I may have a lot of inefficient/ugly/... codes here. 
+There are lots of good repos out there for this coarse, please use them.
 
 # Features
 1. All optional exercises have been done
